@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Harshal Patil",
 	"description": "A project that does something awesome",
-	"keywords": [ "node", "javascript", "freecodecamp" ],
+	"keywords": [ "freecodecamp", "APIs", "Microservices" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
